@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "outDir": "./dist" // Specify output directory for compiled files
+    },
+    // "include": ["src/**/*.ts"], // Specify files to include in compilation
+    // "exclude": ["node_modules"] // Specify files to exclude from compilation
+  }
+  
